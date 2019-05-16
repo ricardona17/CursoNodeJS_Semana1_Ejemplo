@@ -1,0 +1,21 @@
+{
+  "name": "semana1",
+  "version": "1.0.0",
+  "description": "Curso NodeJS - Semana 1",
+  "main": "requireExterno.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "yargs",
+    "npm",
+    "git"
+  ],
+  "author": "Ricardo Cardona",
+  "license": "ISC"
+}
